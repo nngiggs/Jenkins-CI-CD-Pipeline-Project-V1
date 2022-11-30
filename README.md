@@ -185,3 +185,4 @@
 
 18) Confirm and make test your installations/setups  
 adding some data to readme for git
+my own failed the git push
