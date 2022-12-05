@@ -50,6 +50,7 @@
     - Instance type: t2.micro
     - Security Group (Open): 9090 and 22 to 0.0.0.0/0
     - Key pair: Select or create a new keypair
+    - copy userdata from this link: https://github.com/cvamsikrishna11/devops-fully-automated/blob/installations/prometheus-setup.sh
     - Launch Instance
 
 7) Grafana
